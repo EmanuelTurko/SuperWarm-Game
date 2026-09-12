@@ -6,18 +6,14 @@ Inspired by [SUPERHOT](https://superhotgame.com/) — most notably its time-tied
 
 Solo project.
 
-
 ## Trailer
 [![Watch the trailer](https://img.youtube.com/vi/57OGaN0B1Qw/maxresdefault.jpg)](https://www.youtube.com/watch?v=57OGaN0B1Qw)
 
 **[Download the game (.exe, Google Drive)](https://drive.google.com/file/d/1VLiBsSZer9RLrQGIEVoBaKYeExhjyMfZ/view?usp=sharing)**
 
-<!--
-TODO: Add 2-3 gameplay screenshots here, e.g.:
-![Level 1](docs/images/level1.png)
-![Enemy encounter](docs/images/combat.png)
-![Victory screen](docs/images/victory.png)
--->
+<p align="center">
+  <img src="docs/images/tutorial.png" width="700" alt="Tutorial scene">
+</p>
 
 ## Overview
 
@@ -33,6 +29,10 @@ The player moves through enemy-controlled levels, fighting through combat spaces
 - **Progression** — Level 2 introduces shortcuts and hidden teleport checkpoints so players can resume from meaningful progress after failure
 - **Persistence** — Death count and total time are tracked across the run and shown on the victory screen
 
+<p align="center">
+  <img src="docs/images/level1.png" width="700" alt="Level 1 gameplay">
+</p>
+
 ## Level flow
 
 1. **Main Menu** — entry point into the game
@@ -40,6 +40,10 @@ The player moves through enemy-controlled levels, fighting through combat spaces
 3. **Level 1** — first full combat/traversal level
 4. **Level 2** — larger, harder level with shortcuts and hidden checkpoint teleports
 5. **Victory** — end-of-run screen showing death count and total time
+
+<p align="center">
+  <img src="docs/images/level2.png" width="700" alt="Level 2 gameplay">
+</p>
 
 ## Tech stack
 
